@@ -1,4 +1,4 @@
-# not made by me
+# Not made by me
 This was made by Minesraft2, who I think got banned. I got them because some person posted a link to wayback machine on Minesraft's website, so I just copied the GUI code.
 The link to the website: https://web.archive.org/web/20230317142811/https://minesraft2.github.io/Blooket-Cheats/
 
