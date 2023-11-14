@@ -1,5 +1,6 @@
 # THIS DOES NOT WORK ANYMORE
 ### Go to https://github.com/Shploop/Blooket-Cheats/blob/main/cheats/gui.js for the same GUI, or go to the wayback machine I linked below
+i could just copy the code from either of those things to "fix" it but tbh i dont feel like doing that even it only takes like a minute to do
 
 # Not made by me
 This was made by Minesraft2, who I think got banned. I got them because some person posted a link to wayback machine on Minesraft's website, so I just copied the GUI code.
